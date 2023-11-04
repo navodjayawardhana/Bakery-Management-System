@@ -1,0 +1,15 @@
+14
+Croissants_Fruit 300 26 0
+Yogurt_parfait 200 8 0
+Veggie_frittata 300 7 0
+coffee 100 20 0
+tea 70 20 0
+Gourmet_Sandwiches 150 40 1
+Salad 250 40 1
+Tomato_Soup 200 40 1
+Iced_Tea 200 30 1
+Focaccia_Bread 250 20 2
+Roasted_Veggies 300 40 2
+Caesar_Salad 200 34 2
+Molten_cake 650 4 2
+Pasta 300 10 0
